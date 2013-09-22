@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery Events 201</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" type="image/x-icon" href="../ico/favicon.ico">
+</head>
+<body>
+	<dl>
+		<dt>What are your hours?</dt>
+		<dd>We are open 24/7</dd>
+		<dt>What are your hours?</dt>
+		<dd>We are open 24/7</dd>
+		<dt>What are your hours?</dt>
+		<dd>We are open 24/7</dd>
+		<dt>What are your hours?</dt>
+		<dd>We are open 24/7</dd>
+		<dt>What are your hours?</dt>
+		<dd>We are open 24/7</dd>
+	</dl>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>
+ 	    (function() {
+ 			$('dd').filter(':nth-child(n+4)').addClass('hide');
+
+ 			$('dl').on('mouseenter', 'dt', function() {
+ 				$(this)
+ 					.next()
+ 						.slideDown(200)
+ 						.siblings('dd')
+ 							.slideUp(200);	// optimum speed
+
+ 			});
+ 	    })();
+    </script>
+</body>
+</html>
