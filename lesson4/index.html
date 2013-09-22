@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+<!-- Example of toggling buttons -->
 <head>
 	<meta charset="UTF-8">
 	<title>Lesson 4</title>
@@ -21,12 +22,17 @@
 	<script>
 		(function() {
 			var link = $('link');	// Cache the link
-			$('button').click(function(event) {
-				var $this = $(this);
-				var stylesheet = $this.data('file'); // cache the stylesheet data
-				//console.log(stylesheet);
+			$('button').on('click', function(event) {
+				var $this = $(this),
+					 stylesheet = $this.data('file'); // cache the stylesheet data
+
 				link.attr('href', stylesheet + '.css');
-				$this.attr('disabled', 'disabled');
+
+				$this
+					.siblings('button')
+						.removeAttr('disabled')
+						.end()
+						.attr('disabled', 'disabled');
 			});
 		})();
 	</script>
