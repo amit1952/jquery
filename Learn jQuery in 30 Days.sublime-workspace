@@ -1,0 +1,916 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h	height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"bd",
+				"bd+	border: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"anim",
+				"animate	animate"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"fil",
+				"filter	.filter()"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"t",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lesson4/index.html",
+			"settings":
+			{
+				"buffer_size": 871,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "day.css",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "night.css",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 12921,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 292.0,
+		"selected_items":
+		[
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"tid",
+				"TidyHTML"
+			],
+			[
+				"f",
+				"Fetch: File"
+			],
+			[
+				"emmw",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"fp",
+				"Fetch: Package"
+			],
+			[
+				"fm",
+				"Fetch: Manage"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"start ser",
+				"PHP Built-in WebServer: Start Server"
+			],
+			[
+				"stop",
+				"PHP Built-in WebServer: Stop Server"
+			],
+			[
+				"php",
+				"PHP Built-in WebServer: Start Server"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"ma",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"t",
+				"TidyHTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ci",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"ff",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gits",
+				"Git: Status"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Amitava/Desktop/jquery/lesson4/night.css",
+		"/C/Users/Amitava/Desktop/jquery/lesson4/day.css",
+		"/C/Users/Amitava/Desktop/jquery/lesson3/index.html",
+		"/C/Users/Amitava/Desktop/jquery/night.css",
+		"/C/Users/Amitava/Desktop/jquery/day.css",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/TidyHTML5/TidyHTML.sublime-settings",
+		"/E/Users/Amitava/Documents/bootstrap3/README.md",
+		"/C/Users/Amitava/Desktop/jquery/index.html",
+		"/C/Users/Amitava/Desktop/jquery/jquery.js",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/models/User.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/PHP Built-in WebServer/PHP Built-in WebServer.sublime-settings",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/routes.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/controllers/PagesController.php",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/views/hello.blade.php",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/controllers/BaseController.php",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/controllers/HomeController.php",
+		"/E/htdocs/phpmyadmin/doc/config.rst",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/config/database.php",
+		"/C/Users/Amitava/Desktop/laravel/composer.json",
+		"/C/Users/Amitava/Desktop/laravel/composer.lock",
+		"/C/Users/Amitava/Desktop/MVC/laravel/app/views/hello.php",
+		"/C/Users/Amitava/Desktop/MVC/laravel/vendor/laravel/framework/src/Illuminate/Queue/IlluminateQueueClosure.php",
+		"/E/Users/Amitava/Documents/jqueryui-interactions/selectable.html",
+		"/E/Users/Amitava/Documents/jqueryui-interactions/sortable.html",
+		"/E/Users/Amitava/Documents/jqueryui-interactions/resizeable.html",
+		"/E/Users/Amitava/Documents/jqueryui-interactions/droppable.html",
+		"/E/Users/Amitava/Documents/jqueryui-interactions/run_server.cmd",
+		"/C/Users/Amitava/Desktop/jqueryui-interactions/template.html",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/css/smoothness/jquery-ui-1.10.3.custom.css",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/js/jquery-ui.js",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Emmet/snippets.json",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/button.html",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/TidyHTML.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/snippets.json",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/remote.html",
+		"/D/fabric.js/dist/all.js",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Vintage/vintage_motions.py",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Vintage/Default (Windows).sublime-keymap",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Vintage/vintage_commands.py",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Emmet/README.md",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/js/jquery.ui.effect-bounce.js",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/js/jquery-ui-1.10.3.custom.js",
+		"/C/Users/Amitava/AppData/Local/Temp/dtemp-c79abb835682483-20.dop/jquery-ui.js",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/js/jquery-ui-1.10.3.custom.min.js",
+		"/C/Users/Amitava/Desktop/jqueryui-widgets/cakewalk.html",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/PhpBeautifier/README.md",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/PHP Built-in WebServer/README.md",
+		"/C/Users/Amitava/Desktop/laravel/app/views/hello.blade.php",
+		"/C/Users/Amitava/Desktop/laravel/app/controllers/PagesController.php",
+		"/C/Users/Amitava/Desktop/laravel/app/views/hello.php",
+		"/C/Users/Amitava/Desktop/laravel/app/controllers/BaseController.php",
+		"/C/Users/Amitava/Desktop/laravel/app/config/app.php",
+		"/C/Users/Amitava/Desktop/laravel/app/config/database.php",
+		"/C/Users/Amitava/Desktop/laravel/app/routes.php",
+		"/C/Users/Amitava/Desktop/laravel/bootstrap/start.php",
+		"/E/htdocs/bjq/ch03/ex1/index.html",
+		"/E/htdocs/bjq/ch03/ex1/app.js",
+		"/E/htdocs/bjq/ch03/ex1/style.css",
+		"/E/htdocs/bjq/style.css",
+		"/E/htdocs/bjq/index.html",
+		"/E/htdocs/bjq/app.js",
+		"/E/htdocs/bjq/jquery.js",
+		"/E/htdocs/bjq/jquery-migrate.js",
+		"/E/jquery-migrate/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/README.md",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/vhosts/cms/application/views/admin/_layout_main.php",
+		"/E/vhosts/cms/public_html/js/jquery.js",
+		"/E/vhosts/cms/application/views/admin/_layout_modal.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/3024 Color Scheme/README.md",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/README.md",
+		"/E/vhosts/cms/application/index.html",
+		"/E/vhosts/cms/application/views/_layout_main.php",
+		"/E/vhosts/cms/application/views/admin/components/page_head.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Git/README.markdown",
+		"/E/vhosts/cms/application/views/components/page_head.php",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"autocomplete",
+			"\"",
+			"li",
+			"check",
+			"example",
+			"!",
+			"]);\n",
+			"2",
+			"p",
+			"box",
+			"w",
+			"\\\\{1}",
+			"\\{1}",
+			"\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"radio",
+			"\\\\\\\\",
+			"\\\\",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lesson4/index.html",
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								826,
+								826
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "day.css",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "night.css",
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Amitava/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 12921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"output.php_builtin_server_panel":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"illumin",
+				"vendor/laravel/framework/src/Illuminate/Queue/IlluminateQueueClosure.php"
+			],
+			[
+				"_",
+				"application/views/_layout_main.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true
+}
